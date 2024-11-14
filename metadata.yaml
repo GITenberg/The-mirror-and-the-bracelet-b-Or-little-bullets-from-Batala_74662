@@ -1,0 +1,33 @@
+_repo: The-mirror-and-the-bracelet-b-Or-little-bullets-from-Batala_74662
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: A. L. O. E.
+    aliases:
+    - A.L.O.E.
+    - Tucker, Charlotte Maria
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '31385'
+    url: http://www.gutenberg.org/2009/agents/31385
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
+  - agent_name: Tucker, C. M.
+    gutenberg_agent_id: '57592'
+    url: http://www.gutenberg.org/2009/agents/57592
+description: ''
+gutenberg_issued: '2024-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74662'
+language: en
+pgterms:marc905: 20241023091251aloe
+pgterms:marc906: '1875'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bGall & Inglis, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The mirror and the bracelet : $b Or, little bullets from Batala'
+url: http://www.gutenberg.org/ebooks/74662
