@@ -1,5 +1,8 @@
 _repo: The-mirror-and-the-bracelet-b-Or-little-bullets-from-Batala_74662
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: A. L. O. E.
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '57592'
     url: http://www.gutenberg.org/2009/agents/57592
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74662#The-mirror-and-the-bracelet-b-Or-little-bullets-from-Batala
 gutenberg_issued: '2024-10-31'
 gutenberg_type: Text
 identifiers:
